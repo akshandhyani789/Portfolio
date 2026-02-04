@@ -1,0 +1,11 @@
+/* src/index.css */
+@import "tailwindcss";
+
+/* Optional: Add your own global styles here if needed */
+#root {
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+  overscroll-behavior: none;
+}
