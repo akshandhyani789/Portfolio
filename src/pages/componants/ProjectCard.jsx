@@ -19,7 +19,7 @@ function ProjectCard({ title, description, imageUrl, technologies, githubUrl, li
       <div className="p-5 flex flex-col gap-3">
         <h2 className="text-xl text-gray-800 font-bold">{title}</h2>
 
-        <p className="md:text-lg text-md text-gray-600 line-clamp-3">{description}</p>
+        <p className="md:text-lg text-md text-gray-600 line-clamp-3 min-h-10 max-h-50">{description}</p>
 
         {/* Technologies */}
         <div className="flex flex-wrap gap-2 mt-2">

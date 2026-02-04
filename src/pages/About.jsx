@@ -20,7 +20,7 @@ function About() {
             <img
               src="src\assets\myImage.png"
               alt="About"
-              className="w-full h-auto rounded-lg object-cover hover:scale-105 transition-transform duration-500"
+              className="w-full max-h-150 rounded-lg object-cover hover:scale-105 transition-transform duration-500"
             />
           </div>
 
