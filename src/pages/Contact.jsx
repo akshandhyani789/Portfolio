@@ -6,7 +6,7 @@ function Contact() {
   
   return (
     <div id="contact" className="mt-10 p-6 bg-gray-50">
-      <h1 className="text-2xl md:text-4xl font-bold text-center my-5 md:text-5xl">
+      <h1 className="text-2xl font-bold text-center my-5 md:text-4xl">
         Get In Touch
       </h1>
 
