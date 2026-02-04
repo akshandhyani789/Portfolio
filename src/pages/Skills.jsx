@@ -38,7 +38,7 @@ function Skills() {
 
   return (
     <section id='skills' className='p-5'>
-            <h1 className='text-4xl font-bold text-center my-5 pt-5'>Skills & Technologies</h1>
+            <h1 className='text-2xl md:text-4xl font-bold text-center my-5 pt-5 '>Skills & Technologies</h1>
       <span className=" block h-1 w-30 bg-blue-800 border-b-blue-800 mx-auto mb-10"></span>
 
             <div className='grid lg:grid-cols-3 gap-8 mb-16 px-10'>

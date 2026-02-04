@@ -15,7 +15,7 @@ function Experience() {
 
   return (
     <div id="experiences" className="p-5 my-10">
-      <h1 className="text-5xl font-bold text-center py-5">Experience</h1>
+      <h1 className=" text-2xl md:text-5xl font-bold text-center py-5">Experience</h1>
       <span className=" block h-1 w-30 bg-blue-800 border-b-blue-800 mx-auto mb-5"></span>
       <p className="text-lg font-medium text-center ">
         My professnol jurney and intership experience
