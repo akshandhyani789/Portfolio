@@ -18,7 +18,7 @@ function About() {
           {/* Image Section */}
           <div className="w-full p-15">
             <img
-              src="src\assets\myImage.png"
+              src="src\assets\myImage.jpg"
               alt="About"
               className="w-full max-h-150 rounded-lg object-cover hover:scale-105 transition-transform duration-500"
             />
