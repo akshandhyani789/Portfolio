@@ -7,7 +7,7 @@ function About() {
       className="min-h-screen bg-gray-50 flex items-center justify-center px-6"
     >
       <div className="max-w-6xl w-full text-center my-10">
-        <h1 className="text-center text-3xl font-bold py-5 md:text-5xl">
+        <h1 className="text-center text-3xl font-bold py-5 md:text-4xl">
           About Me
         </h1>
       <span className=" block h-1 w-30 bg-blue-800 border-b-blue-800 mx-auto"></span>
