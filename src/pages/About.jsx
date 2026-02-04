@@ -1,4 +1,5 @@
 import React from "react";
+import myImage from "../assets/myImage.png";
 
 function About() {
   return (
@@ -18,7 +19,7 @@ function About() {
           {/* Image Section */}
           <div className="w-full p-15">
             <img
-              src="src/assets/myImage.png"
+              src={myImage}
               alt="About"
               className="w-full max-h-150 rounded-lg object-cover hover:scale-105 transition-transform duration-500"
             />
