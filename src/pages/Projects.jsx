@@ -43,7 +43,7 @@ function Projects() {
         Here are some of my recent projects that showcase my skills and
         experience
       </p>
-      <div className="grid lg:grid-cols-2 xl:grid-cols-3 justify-items-center">
+      <div className="grid lg:grid-cols-2 xl:grid-cols-3 justify-items-center px-15 md:px-2">
         {ProjectDetail.map((project, index) => (
           <ProjectCard
             key={index}
